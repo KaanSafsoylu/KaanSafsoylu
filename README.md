@@ -51,7 +51,7 @@
 </p>
 
 
-<h2 align="center">My Github Stats</h2>
+<h2 align="center">Statistics</h2>
  
 <br>
 
