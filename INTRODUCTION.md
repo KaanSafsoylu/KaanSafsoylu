@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/KaanSafsoylu/images/backgroundPic.png" />
+<img src="https://github.com/KaanSafsoylu/KaanSafsoylu/images/backgroundPic.png" />
 
 <p align="center">
  
