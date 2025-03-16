@@ -38,7 +38,7 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
- <a href="https://twitter.com/kaansafsoylu](https://www.instagram.com/kaansafsoylu/">
+ <a href="https://www.instagram.com/kaansafsoylu/">
 <img src="https://img.shields.io/badge/-kaansafsoylu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaansafsoylu/"/>
   </a>
 <a href="mailto: kaansafsoylu@hotmail.com">
@@ -59,9 +59,10 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=KaanSafsoylu&show_icons=true&theme=radical&line_height=27">
+</p>
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaanSafsoylu&theme=radical">
 </p>
-
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KaanSafsoylu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
