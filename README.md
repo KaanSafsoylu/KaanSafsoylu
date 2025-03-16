@@ -27,11 +27,11 @@
 <img src="https://img.shields.io/badge/appium-purple?style=flat-square&logo=appium"/>
 <img src="https://img.shields.io/badge/selenium-green?style=flat-square&logo=selenium"/>
 <img src="https://img.shields.io/badge/SpringBoot-yellow?style=flat-square&logo=springboot"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-Nodejs-blue?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-green?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-red?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-pink?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
