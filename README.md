@@ -66,6 +66,8 @@
 
 <p align = "center">
 <img src="https://raw.githubusercontent.com/KaanSafsoylu/KaanSafsoylu/output/snake.svg" alt="Snake animation" />
+
+###
 </p> 
 
 <hr>
