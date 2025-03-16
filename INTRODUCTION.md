@@ -42,7 +42,7 @@
 <a href="mailto: kaansafsoylu@hotmail.com">
  <img src="https://img.shields.io/badge/-KaanSafsoylu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaansafsoylu@hotmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/kaansafsoylu/">
+<a href="https://www.linkedin.com/in/kkaansafsoylu/">
  <img src="https://img.shields.io/badge/-kaansafsoylu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaansafsoylu/"/>
 </a>
  <a href="https://twitter.com/kaansafsoylu">
@@ -51,9 +51,7 @@
 </p>
 
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
+<h2 align="center">My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
  
 <br>
 
