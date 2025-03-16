@@ -38,7 +38,9 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
+ <a href="https://twitter.com/kaansafsoylu](https://www.instagram.com/kaansafsoylu/">
 <img src="https://img.shields.io/badge/-kaansafsoylu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaansafsoylu/"/>
+  </a>
 <a href="mailto: kaansafsoylu@hotmail.com">
  <img src="https://img.shields.io/badge/-KaanSafsoylu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaansafsoylu@hotmail.com"/>
 </a>
