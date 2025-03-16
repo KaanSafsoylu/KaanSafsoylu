@@ -1,8 +1,8 @@
 
 <p align="center">
- 
-</p align="center">
+
 <img src="https://github.com/KaanSafsoylu/KaanSafsoylu/blob/main/images/backgroundPic.png" />
+</p>
 
 <p align="center">
  
