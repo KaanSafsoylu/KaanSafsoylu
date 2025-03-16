@@ -8,7 +8,7 @@
  
  <img src="https://badges.pufler.dev/visits/KaanSafsoylu/kaansafsoylu"/> 
  <img src="https://badges.pufler.dev/years/KaanSafsoylu"/> 
- <img src="https://badges.pufler.dev/repos/KaanSafsoylu"/>
+ <img src="https://badges.pufler.dev/repos/kaansafsoylu"/>
  <img src="https://badges.pufler.dev/commits/all/KaanSafsoylu" />
 
 </p>
