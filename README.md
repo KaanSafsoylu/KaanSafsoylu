@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/nextjs-red?style=flat-square&logo=nestjs"/>
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript--blue?style=flat-square&logo=typescript&logoColor=%23blue"/>
 <img src="https://img.shields.io/badge/appium-purple?style=flat-square&logo=appium"/>
 <img src="https://img.shields.io/badge/selenium-green?style=flat-square&logo=selenium"/>
 <img src="https://img.shields.io/badge/SpringBoot-yellow?style=flat-square&logo=springboot"/>
