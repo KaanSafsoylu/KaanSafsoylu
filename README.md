@@ -64,5 +64,9 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KaanSafsoylu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
+<p align = "center">
+<img src="https://raw.githubusercontent.com/KaanSafsoylu/KaanSafsoylu/output/snake.svg" alt="Snake animation" />
+</p> 
+
 <hr>
 
