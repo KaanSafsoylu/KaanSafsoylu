@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/java-brown?style=flat-square&logo=coffeescript"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/nextjs-black?style=flat-square&logo=nestjs"/>
+<img src="https://img.shields.io/badge/nextjs-red?style=flat-square&logo=nestjs"/>
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/appium-purple?style=flat-square&logo=appium"/>
 <img src="https://img.shields.io/badge/selenium-green?style=flat-square&logo=selenium"/>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/-MongoDB-red?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-pink?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
