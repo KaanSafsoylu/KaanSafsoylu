@@ -47,9 +47,6 @@
 <a href="https://www.linkedin.com/in/kkaansafsoylu/">
  <img src="https://img.shields.io/badge/-kaansafsoylu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaansafsoylu/"/>
 </a>
- <a href="https://twitter.com/kaansafsoylu">
- <img src="https://img.shields.io/badge/-kaansafsoylu-blue?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/kaansafsoylu/>"/>
-</a>
 </p>
 
 
